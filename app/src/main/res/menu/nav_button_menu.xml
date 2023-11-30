@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_quran"
+        android:title="Quran"
+        android:icon="@mipmap/ic_launcher_round"/>
+
+    <item android:id="@+id/nav_adzan"
+        android:title="Adzan"
+        android:icon="@mipmap/ic_launcher_round"/>
+
+</menu>
